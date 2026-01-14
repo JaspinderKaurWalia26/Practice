@@ -7,10 +7,18 @@ print(stud1.name)
 print("Hello")
 
 
+
 #python
 
 #message
 
 #test
 #new
+
 print("new")
+
+
+print("Good  Morning")
+
+
+
