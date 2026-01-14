@@ -8,22 +8,6 @@ print("Hello")
 print("Good evening")
 
 
-#python
-
-#message
-
-#test
-#new
-
-print("good afternoon")
-
-
-print("new")
-
-
-print("Good  Morning")
-print("testing")
-
 
 
 
