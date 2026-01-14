@@ -10,4 +10,8 @@ print(stud1.name)
 
 #message
 
+<<<<<<< Updated upstream
 #test
+=======
+#new
+>>>>>>> Stashed changes
