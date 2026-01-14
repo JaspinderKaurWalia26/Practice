@@ -1,0 +1,31 @@
+Notion Introduction:
+Notion is a productivity tool used for creating notes, managing tasks and organizing work in one place. 
+It is used for documentation and provides free hosting services for publishing pages.
+
+
+Benefits of Notion:
+* Helps keep all notes and tasks organized in one place
+* Useful for documentation and personal or team projects
+* Supports collaboration – multiple people can work together
+* Provides templates to save time and quickly create pages
+* Allows customization – add icons, cover images, headings, tables, etc.
+
+Concepts: Explored Today
+1. Explored Notion Interface
+2. Created a new workspace
+3. Explored available templates
+4. Created a new page 
+5. Added a to-do list
+6. Added Comments on a page 
+7. Inserted cover images and icons
+8. Learned to link one page to another
+9. Published a Notion page
+10.Explored callout option for highlighting
+11.Learned about drag and drop option
+12.Explored Notion AI chat feature 
+13.Learned how invitations can be sent
+14.Explored to add tables
+15.Exported page in pdf format
+
+
+Created and published a Notion page, which can be accessed via this link: [https://dapper-muse-140.notion.site/Jaspinder-Kaur-2e8597ef6a8c80d1afc8dbd908790600]
