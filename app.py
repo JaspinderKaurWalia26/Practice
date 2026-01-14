@@ -4,14 +4,12 @@ class Student:
         
 stud1=Student("Anshul")
 print(stud1.name)
+print("Hello")
 
 
 #python
 
 #message
 
-<<<<<<< Updated upstream
 #test
-=======
 #new
->>>>>>> Stashed changes
