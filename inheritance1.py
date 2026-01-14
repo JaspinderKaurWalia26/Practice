@@ -16,7 +16,7 @@ acc=account(25000,"CA")
 print(acc.salary,acc.role,acc.end_Time)
 
 
-Inheritance Concept
+#Inheritance Concept
 
         
-
+#Constructor concept
