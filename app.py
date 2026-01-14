@@ -5,7 +5,7 @@ class Student:
 stud1=Student("Anshul")
 print(stud1.name)
 print("Hello")
-
+print("Good evening")
 
 
 #python
@@ -15,7 +15,11 @@ print("Hello")
 #test
 #new
 
+print("new")
+
+
 print("Good  Morning")
 print("testing")
+
 
 
